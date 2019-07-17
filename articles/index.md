@@ -1,3 +1,7 @@
+```
+RStudio + Jupyter Notebook
+```
+
 # Azure DevOps HOL Powered by R and Python
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
